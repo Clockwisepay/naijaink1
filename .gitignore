@@ -1,0 +1,4 @@
+*.log
+.project
+var
+node_modules/
